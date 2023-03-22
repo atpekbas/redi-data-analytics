@@ -1,0 +1,26 @@
+[
+    {
+      "name": "ahmet",
+      "lastname": "pekbas",
+      "gender": "male",
+      "score": 42
+    },
+    {
+      "name": "natalia",
+      "lastname": "imre",
+      "gender": "female",
+      "score": 100
+    },
+    {
+      "name": "mohan",
+      "lastname": "dev sukumar",
+      "gender": "male",
+      "score": ""
+    },
+    {
+      "name": "david",
+      "lastname": "nagy",
+      "gender": "male",
+      "score": 96
+    }
+  ]
