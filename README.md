@@ -1,1 +1,1 @@
-# redi-data-analytics
+# Redi School Aarhus - Data Analytics Course
