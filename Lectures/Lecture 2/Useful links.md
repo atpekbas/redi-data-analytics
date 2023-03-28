@@ -1,4 +1,4 @@
-# Useful links & Hints
+# Useful links
 
 - [w3schools Python Tutorial](https://www.w3schools.com/python/python_intro.asp)
 - [tutorialspoint Python Tutorial](https://www.tutorialspoint.com/python/index.htm)

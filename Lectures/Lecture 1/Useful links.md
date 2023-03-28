@@ -1,4 +1,4 @@
-# Useful links & Hints
+# Useful links
 
 - [Python](https://www.python.org/)
 - [PyPI (Python library manager)](https://pypi.org/)
@@ -6,6 +6,8 @@
 - [Pandas](https://pandas.pydata.org/)
 - [Python Cheat sheet](https://www.pythoncheatsheet.org/)
 - [(Youtube) How To Change Keyboard Language on Windows 11](https://www.youtube.com/watch?v=hgH3fVZyngc)
+
+# Guides
 
 ## How to start Jupyter Lab
 During class, we installed python, pip, pandas and jupyter lab. You then created a folder where you will work in during this course. You downloaded the .ipynb file from the exercise and put it into that folder. (e.g. C:/data_analytics)
