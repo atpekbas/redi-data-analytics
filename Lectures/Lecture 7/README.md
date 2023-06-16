@@ -1,0 +1,1 @@
+This lecture was used for reflection, therefore there was no lecture.
